@@ -1,29 +1,29 @@
 # the name of this book
-title: Example Site
+title: 《金融数据挖掘与机器学习》课程实验指导书
 # the author of this book
-author: cloudy-sfu
+author: 《金融数据挖掘与机器学习》制作组
 # this book is written in which year
-created_year: 2025
+created_year: 2026
 # articles list
 articles:
   # each bullet point represents an article
-  - name: 案例 1
+  - name: 案例 1 个人信用评分与客户违约识别
     filepath: lab_1.html
-  - name: 案例 2
+  - name: 案例 2 信用卡客户违约预测
     filepath: lab_2.html
-  - name: 案例 3
+  - name: 案例 3 信用卡欺诈交易检测
     filepath: lab_3.html
-  - name: 案例 4
+  - name: 案例 4 消费贷款违约风险预警
     filepath: lab_4.html
-  - name: 案例 5
+  - name: 案例 5 企业破产预警与财务风险识别
     filepath: lab_5.html
-  - name: 案例 6
+  - name: 案例 6 银行客户分群与订阅行为分析
     filepath: lab_6.html
-  - name: 案例 7
+  - name: 案例 7 银行营销数据中的关联规则与客户洞察
     filepath: lab_7.html
-  - name: 案例 8
+  - name: 案例 8 股票收益率方向预测
     filepath: lab_8.html
-  - name: 案例 9
+  - name: 案例 9 金融新闻文本分析与股价联动
     filepath: lab_9.html
-  - name: 案例 10
+  - name: 案例 10 基于大语言模型文本嵌入的金融新闻情感分析
     filepath: lab_10.html
