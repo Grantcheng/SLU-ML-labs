@@ -7,6 +7,8 @@ created_year: 2026
 # articles list
 articles:
   # each bullet point represents an article
+  - name: 封面
+    filepath: cover.html
   - name: 案例 1 个人信用评分与客户违约识别
     filepath: lab_1.html
   - name: 案例 2 信用卡客户违约预测
